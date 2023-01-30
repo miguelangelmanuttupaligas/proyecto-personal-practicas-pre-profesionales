@@ -1,0 +1,5 @@
+azure-mgmt-resource
+azure-mgmt-datalake-store
+azure-storage-file-datalake
+azure-identity
+python-dotenv
